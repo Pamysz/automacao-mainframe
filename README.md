@@ -1,4 +1,4 @@
-# Automação Mainframe - Excel + Web Scraping
+# Automação Mainframe - Excel - Web Scraping
 
 Sistema de automação Python que integra planilhas Excel, web scraping na Amazon e sistemas Mainframe.
 
