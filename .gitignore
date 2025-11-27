@@ -1,15 +1,12 @@
 venv/
 .venv/
 env/
-
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
 *.jar
 *.log
-
 .vscode/
 .idea/
 .DS_Store
